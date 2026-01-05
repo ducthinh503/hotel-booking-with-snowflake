@@ -16,16 +16,6 @@ The goal of this project is to:
 
 ## 🏗️ System Architecture
 
-The data pipeline follows a simple **ELT architecture**:
-
-- **Data Source**: Raw CSV file (`hotel_bookings_raw.csv`)
-- **Data Warehouse**: Snowflake
-- **Data Layers**:
-  - Raw Data
-  - Cleaned Data
-  - Business-Ready Data
-- **Visualization**: Snowflake Snowsight Dashboard
-
 ![System Architecture](docs/data_architecture.png)
 
 ---
