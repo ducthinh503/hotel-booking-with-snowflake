@@ -1,6 +1,6 @@
 # 🏨 Hotel Booking Analysis with Snowflake
 
-This project demonstrates an end-to-end **hotel booking analytics pipeline** using **Snowflake** as the cloud data warehouse, from raw CSV ingestion to business-ready analytics and dashboard visualization.
+**hotel booking analytics pipeline** using **Snowflake** as the cloud data warehouse, from raw CSV ingestion to business-ready analytics and dashboard visualization.
 
 ---
 
